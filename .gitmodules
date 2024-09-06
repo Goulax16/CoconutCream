@@ -1,0 +1,3 @@
+[submodule "CoconutCream/vendor/spdlog"]
+	path = CoconutCream/vendor/spdlog
+	url = https://github.com/gabime/spdlog
